@@ -1,0 +1,35 @@
+:root{
+    background-color: black;
+}
+.textField{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 25px;
+    color: white;
+}
+.redTxt{
+    color: red;
+}
+
+.btn{
+   background-color: limegreen;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    border: solid 1px white;
+}
+.btn:hover{
+    color: lime;
+    background-color: white;
+    box-shadow: greenyellow 0px 54px 55px, greenyellow 0px -12px 30px, greenyellow 0px 4px 6px, greenyellow 0px 12px 13px, greenyellow 0px -3px 5px;
+}
+
+#joke{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
